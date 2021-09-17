@@ -1,4 +1,4 @@
-# benchmark-medical
+# openfed-medical
 
 Coming soon...
 
